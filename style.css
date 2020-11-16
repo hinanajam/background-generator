@@ -1,0 +1,16 @@
+body{background-image:url(https://i.ytimg.com/vi/V_2mmgzp274/maxresdefault.jpg);
+background-size:cover;}
+
+h2{color:#62C1D4;
+  text-align:center;
+  border:3px solid white;
+  cursor:pointer;}
+p{color:white;
+  border:2px dashed;
+  line-height: 30px;
+  font-family: "Times New Roman",Calbri;}
+li{list-style:none;
+   display:inline-block;
+   color:white;}
+img{float:right;}
+.image1{float:right;}
